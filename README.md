@@ -1,2 +1,3 @@
-# Basic-CRUD-py
-Basic crud using python
+# Basic-CRUD-py <br>
+Basic crud using python3 and fastAPI; <br>
+Just for study;;
